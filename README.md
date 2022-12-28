@@ -3,9 +3,6 @@
 MyTab에서는 유저가 좋아요한 GIF 컬렉션을 볼 수 있습니다.  
 
 
-## DEMO
-![](demoo.gif)
-
 ## Dev Stack
 BE : node.js, express, mysql  
 FE : Flutter
@@ -58,3 +55,16 @@ USERS ||--O{COMMENTS: ""
 COMMENTS ||--o{ CHILD_COMMENTS : ""
 USERS ||--o{ FAVORITS : ""
 ```
+
+## 메인 페이지
+<img src="images/main.png" width=auto height="500"/>
+
+## 디테일 페이지
+<img src="images/detail1.png" width=auto height="500"/>
+<img src="images/detail2.png" width=auto height="500"/> 
+
+## 마이탭
+<img src="images/mytab.png" width=auto height="500"/>
+
+## DEMO
+![](demoo.gif) 
